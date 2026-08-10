@@ -5,7 +5,7 @@ const useLogoStyles = createUseStyles({
   imgDesktop: {
     width: '118px',
     height: '30px',
-    backgroundImage: `url(/img/roblox_logo.svg)`,
+    backgroundImage: `url(/img/poggerblox_logo.png)`,
     backgroundSize: '118px 30px',
     display: 'none',
     '@media(min-width: 1301px)': {
