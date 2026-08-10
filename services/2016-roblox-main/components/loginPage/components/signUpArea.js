@@ -20,10 +20,8 @@ const SignUpArea = props => {
     return <div className='row'>
         <div className='col-12'>
             <p className={s.notAMemberText}>Not a member?</p>
-            <h2 className={s.header}>Sign Up to Build & Make Friends</h2>
-            <ActionButton label='Sign Up' onClick={(e) => {
-                window.location.href = '/account/signupredir';
-            }}></ActionButton>
+            <h2 className={s.header}>you gotta login my guy ts a invite only</h2>
+            <h2 className={s.header}>either that or ask @insanityforeternity on discord to make you a acc</h2>
         </div>
     </div>
 }
