@@ -21,7 +21,7 @@ const SignUpArea = props => {
         <div className='col-12'>
             <p className={s.notAMemberText}>Not a member?</p>
             <h2 className={s.header}>you gotta login my guy ts a invite only</h2>
-            <h2 className={s.header}>either that or ask @insanityforeternity on discord to make you a acc</h2>
+            <h2 className={s.header}>either that or ask the owner of this revival to make you a acc</h2>
         </div>
     </div>
 }
